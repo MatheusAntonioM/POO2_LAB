@@ -1,0 +1,1 @@
+Gostaria de pedir desculpas pelo atraso na entrega do laboratório. Enfrentei alguns problemas com o VS Code, que acabou me dando mais dor de cabeça do que o esperado. Precisei desinstalar e reinstalar o programa algumas vezes para tentar resolver as falhas, o que acabou comprometendo meu tempo de trabalho e atrasando a conclusão.
